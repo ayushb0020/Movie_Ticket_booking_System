@@ -1,0 +1,23 @@
+# Compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+test_build
+booking_app
+a.out
+
+# Build folders
+build/
+bin/
+
+# IDE / editor
+.vscode/
+.vs/
+*.suo
+*.user
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
